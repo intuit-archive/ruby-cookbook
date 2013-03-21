@@ -1,4 +1,4 @@
-package node['intu-ruby']['name'] do
-  version node['intu-ruby']['version']
+package node['ruby']['name'] do
+  version node['ruby']['version']
   action :install
 end
