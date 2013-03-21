@@ -14,12 +14,13 @@ Add the ruby-cookbook to your role/run_list.
 
 # Attributes
 ## default
-package name = 'intu-ruby'
-package version = latest
+node['ruby']['name'] - Name of the ruby package, defaults to intu-ruby
+node['ruby']['version'] - Name of the package version, defaults to latest
+
 
 # Recipes
 ## default
-installs cron
+installs ruby package
 
 
 # Authors
