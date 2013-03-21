@@ -19,11 +19,9 @@ Add the ruby-cookbook to your role/run_list.
 
 * ```node['ruby']['version']``` - Name of the package version, defaults to latest
 
-
 # Recipes
 ## default
 installs ruby package
-
 
 # Authors
 * Kevin Young (@keviny22)
