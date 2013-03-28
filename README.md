@@ -19,6 +19,8 @@ Add the ruby-cookbook to your role/run_list.
 
 * ```node['ruby']['version']``` - Name of the package version, defaults to latest
 
+* ```node['ruby']['use_prelink']``` - If set to true, it will prelink ruby, default is true
+
 # Recipes
 ## default
 installs ruby package
