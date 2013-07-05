@@ -1,3 +1,5 @@
+directory "/etc/prelink.conf.d"
+
 file "/etc/prelink.conf.d/ruby.conf" do 
   content "-b /usr/bin/ruby\n"
   owner "root"
