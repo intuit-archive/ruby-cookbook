@@ -1,5 +1,7 @@
 [![Build Status](https://secure.travis-ci.org/intuit/ruby-cookbook.png)](http://travis-ci.org/intuit/ruby-cookbook)
 
+**!!! This project has been deprecated.  We recommend you search the [Chef Supermarket ](https://supermarket.chef.io/) for a supported alternative !!!**
+
 # ruby-cookbook
 Installs ruby, defaults to intu-ruby
 
